@@ -7,5 +7,8 @@ I validated semantic HTML elements to ensue proper syntax
     - removed <div class="content"> and replaced with <main>
     - replaced div udner main with section
     - replaced class with ID
+    - updated CSS .header nav styling (removed div from header)
+    - updated CSS .header nav ul styling label
+    - updated CSS labels to reflect correct semantic html tags
 
 
