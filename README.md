@@ -18,8 +18,7 @@ I validated semantic HTML elements to ensue proper syntax
     - add alt mouseover info to img in html
     - added id and class to search engine optimization img section to make the link work
 
-    Tried to clean up CSS more but it caused the page to break.  Will research ways to streamline CSS and offer free debugging to my client until April 2021.
-    
+   
 
 
 
