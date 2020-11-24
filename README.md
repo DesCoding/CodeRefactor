@@ -11,7 +11,8 @@ Site:  https://descoding.github.io/CodeRefactor/
 
 
 ## Demo
- ![Media-Demo](assets/Media-Demo of refactored site.jpg)
+
+![Media-Demo](assets/Media-Demo of refactored site.jpg)
 
 
 
