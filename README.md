@@ -12,7 +12,7 @@ Site:  https://descoding.github.io/CodeRefactor/
 
 ## Demo
 
-![Media-Demo](CodeRefactor/refactored site.jpg)
+![Media-Demo](CodeRefactor/assets/refactoredsite.jpg)
 
 
 
